@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsSoldier567
-- 👀 I’m interested in deez nuts
-- 🌱 I’m currently learning deez nuts
-- 💞️ I’m looking to collaborate on deez nuts
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on tu madre
 - 📫 How to reach me adhawan63@ladueschools.net
 
 <!---
